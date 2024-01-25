@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **haidarraza843426@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t9ZTgd8VhzwTQKF2hxDWLjFT_ik6v9mE/view?usp=sharing](https://drive.google.com/file/d/1t9ZTgd8VhzwTQKF2hxDWLjFT_ik6v9mE/view?usp=sharing)
-
 - ⚡ Fun fact **Web development ike a magic potion for turning caffeine into code! ☕💻**
 
 <h3 align="left">Connect with me:</h3>
