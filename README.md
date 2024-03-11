@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Haidar Raza</h1>
-<h3 align="center">I am a Web developer based in Jaipur, India. I am Computer Science Engineer undergraduate from SGVU. I am very passionate about improving</h3>
+<h3 align="center">I am a Web developer based in Jaipur, India. I am a Computer Engineer undergraduate from SGVU. I am Passionate, punctual, enthusiastic about what i do. </h3>
 <img align="right" alt="coding" width="400"  src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="">
 
 - 🌱 I’m currently learning **ReactJS**
