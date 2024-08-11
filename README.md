@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://haidarraza21.github.io/personal-portfolio-website/](https://haidarraza21.github.io/haidar/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://haidarraza21.github.io/haidar/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript and SQL**
 
