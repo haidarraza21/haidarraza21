@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Haidar Raza</h1>
-<h3 align="center">A passionate and skilled Web Developer with hands-on experience in front-end development. Currently pursuing a 
-Bachelor’s degree in Computer Science Engineering from SGVU, Jaipur. I have a strong foundation in web technologies 
-and a keen interest in continuously improving my skills through real-world projects and internships.</h3>
+<h3 align="center">I am a Web Developer based in Jaipur, India, and a Computer Engineering graduate from Suresh Gyan Vihar University. Passionate, punctual, and enthusiastic about my work, I thrive on creating responsive, user-friendly, and innovative web solutions that deliver real impact.</h3>
 <img align="right" alt="coding" width="400"  src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="">
 
 - 🌱 I’m currently learning **ReactJS**
